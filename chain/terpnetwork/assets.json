@@ -1,0 +1,26 @@
+[
+  {
+    "denom": "uterp",
+    "type": "staking",
+    "origin_chain": "terpnetwork",
+    "origin_denom": "uterp",
+    "origin_type": "staking",
+    "symbol": "TERP",
+    "decimals": 6,
+    "description": "Terpnetwork Staking Coin",
+    "image": "terpnetwork/asset/osmo.png",
+    "coinGeckoId": ""
+  },
+  {
+    "denom": "uthiol",
+    "type": "native",
+    "origin_chain": "terpnetwork",
+    "origin_denom": "uthiol",
+    "origin_type": "native",
+    "symbol": "THIOL",
+    "decimals": 6,
+    "description": "Gas Coin",
+    "image": "terpnetwork/asset/thiol.png",
+    "coinGeckoId": ""
+  }
+]
